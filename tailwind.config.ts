@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -18,6 +19,9 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				sans: ['Poppins', 'sans-serif'],
+			},
 			colors: {
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
@@ -51,6 +55,16 @@ export default {
 				card: {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
+				},
+				college: {
+					orange: '#e67e22',
+					darkorange: '#d35400',
+					yellow: '#f39c12',
+					maroon: '#8e3a22',
+					green: '#27ae60',
+					blue: '#2980b9',
+					dark: '#333333',
+					light: '#f5f5f5'
 				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
