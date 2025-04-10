@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { BookOpen, Flask, Users, Library, Monitor, Trophy } from 'lucide-react';
+import { BookOpen, Beaker, Users, Library, Monitor, Trophy } from 'lucide-react';
 
 const Facilities = () => {
   return (
@@ -30,7 +30,7 @@ const Facilities = () => {
               <div className="flex items-start">
                 <div className="flex-shrink-0">
                   <div className="flex items-center justify-center h-12 w-12 rounded-md bg-college-orange text-white">
-                    <Flask className="h-6 w-6" />
+                    <Beaker className="h-6 w-6" />
                   </div>
                 </div>
                 <div className="ml-4">
