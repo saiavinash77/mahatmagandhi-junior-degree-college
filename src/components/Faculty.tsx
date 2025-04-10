@@ -27,7 +27,7 @@ const Faculty = () => {
               <CardContent className="p-8">
                 <h3 className="text-2xl font-bold text-college-maroon">Bezawada Venkateshwarrao</h3>
                 <p className="text-lg text-college-blue">M.Sc, B.Sc, B.Ed</p>
-                <p className="text-sm text-gray-500 mb-4">Founder & Chairman</p>
+                <p className="text-sm text-gray-500 mb-4">Principal</p>
                 <p className="text-gray-700">
                   With decades of experience in education, Bezawada Venkateshwarrao founded Mahatma Gandhi College with a vision to provide quality education to the youth of Atreyapuram. His dedication to educational excellence and commitment to Gandhian values forms the cornerstone of our institution.
                 </p>
@@ -43,11 +43,11 @@ const Faculty = () => {
                 </div>
               </div>
               <CardContent className="p-8">
-                <h3 className="text-2xl font-bold text-college-maroon">P.S</h3>
-                <p className="text-lg text-college-blue">Principal</p>
-                <p className="text-sm text-gray-500 mb-4">Educational Administrator</p>
+                <h3 className="text-2xl font-bold text-college-maroon">P.S RAJU</h3>
+                <p className="text-lg text-college-blue">MA., MA., MA., MEd., MPhil.</p>
+                <p className="text-sm text-gray-500 mb-4">Secretary & Correspondent</p>
                 <p className="text-gray-700">
-                  As the Principal, P.S brings valuable leadership to our institution. With a focus on academic rigor and student development, the Principal ensures that our college maintains high standards while nurturing an environment conducive to holistic growth.
+                  As the Secretary & Correspondent, P.S RAJU brings valuable leadership to our institution. With a focus on academic rigor and student development, he ensures that our college maintains high standards while nurturing an environment conducive to holistic growth.
                 </p>
               </CardContent>
             </div>

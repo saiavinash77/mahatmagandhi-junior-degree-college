@@ -52,7 +52,7 @@ const Contact = () => {
                     </div>
                     <div className="ml-3">
                       <h3 className="text-lg font-medium text-gray-900">Email</h3>
-                      <p className="text-gray-500">info@mgdcollege.edu.in</p>
+                      <p className="text-gray-500">mahatmagandhijd07@gmail.com</p>
                     </div>
                   </div>
                   
@@ -130,6 +130,22 @@ const Contact = () => {
                 </form>
               </CardContent>
             </Card>
+          </div>
+        </div>
+
+        <div className="mt-12">
+          <h3 className="text-lg font-medium text-gray-900 mb-4 text-center">Our Location</h3>
+          <div className="w-full h-[450px] rounded-lg overflow-hidden shadow-lg">
+            <iframe 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3818.8917876635587!2d81.7869886!3d16.8317236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a37bf2443435757%3A0xf7ccfa5bdce34d7a!2sMahatma%20Gandhi%20Junior%20college!5e0!3m2!1sen!2sin!4v1744300402539!5m2!1sen!2sin" 
+              width="100%" 
+              height="450" 
+              style={{ border: 0 }} 
+              allowFullScreen 
+              loading="lazy" 
+              referrerPolicy="no-referrer-when-downgrade"
+              title="College Location"
+            ></iframe>
           </div>
         </div>
       </div>

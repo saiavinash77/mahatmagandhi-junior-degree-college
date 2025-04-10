@@ -14,8 +14,10 @@ const Courses = () => {
   
   const degreeCourses = [
     { id: 1, name: 'B.Sc', description: 'Bachelor of Science', details: 'Various specializations including Mathematics, Physics, Chemistry, and Biology' },
-    { id: 2, name: 'B.Com', description: 'Bachelor of Commerce', details: 'Comprehensive education in commerce, accounting, and business studies' },
-    { id: 3, name: 'BCA', description: 'Bachelor of Computer Applications', details: 'Technical education focusing on computer applications and programming' },
+    { id: 2, name: 'B.Sc BZC', description: 'Botany, Zoology, Chemistry', details: 'Specialization in biological sciences and chemistry' },
+    { id: 3, name: 'B.Com', description: 'Bachelor of Commerce', details: 'Comprehensive education in commerce, accounting, and business studies' },
+    { id: 4, name: 'BCA', description: 'Bachelor of Computer Applications', details: 'Technical education focusing on computer applications and programming' },
+    { id: 5, name: 'BA', description: 'Bachelor of Arts', details: 'Diverse curriculum in humanities, social sciences, and liberal arts' },
   ];
 
   return (

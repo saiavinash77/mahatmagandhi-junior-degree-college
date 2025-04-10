@@ -30,7 +30,7 @@ const Footer = () => {
               <p>Near Bus Stand, Atreyapuram</p>
               <p>Opposite to Venkateswaraswamy Temple</p>
               <p className="mt-3">Phone: +91 98668 29897</p>
-              <p>Email: info@mgdcollege.edu.in</p>
+              <p>Email: mahatmagandhijd07@gmail.com</p>
             </address>
           </div>
         </div>
