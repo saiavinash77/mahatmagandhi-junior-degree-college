@@ -96,12 +96,12 @@ const Achievements = () => {
 
             <Card className="overflow-hidden">
               <CardHeader className="bg-college-green/10">
-                <CardTitle className="text-center text-college-maroon">Degree Toppers</CardTitle>
+                <CardTitle className="text-center text-college-maroon">Course Toppers</CardTitle>
               </CardHeader>
               <CardContent className="p-6">
                 <img 
                   src="/lovable-uploads/4492021c-c704-4f11-9b04-cc019fae99da.png"
-                  alt="Degree Course Toppers"
+                  alt="Course Toppers"
                   className="w-full h-auto rounded-lg shadow-lg"
                 />
               </CardContent>
